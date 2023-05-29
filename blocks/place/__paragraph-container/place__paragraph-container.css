@@ -1,0 +1,11 @@
+.place__paragraph-container {
+  display:flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+@media screen and (max-width: 425px) {
+  .place__paragraph {
+    gap: 25px;
+  }  
+}
