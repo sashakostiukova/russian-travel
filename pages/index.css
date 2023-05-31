@@ -1,5 +1,7 @@
 @import url(../vendor/normalize.css);
 
+@import url(../fonts/fonts.css);
+
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
@@ -21,12 +23,15 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__list/photo-grid__list.css);
+@import url(../blocks/photo-grid/__list-item/photo-grid__list-item.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 @import url(../blocks/places/places.css);
-@import url(../blocks/places-list/places-list.css);
+@import url(../blocks/places/__list/places__list.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
@@ -34,12 +39,7 @@
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph-container/place__paragraph-container.css);
-@import url(../blocks/place/___paragraph/place__paragraph.css);
-@import url(../blocks/place/__image/_location/place__image_location_kosa.css);
-@import url(../blocks/place/__image/_location/place__image_location-kolsky.css);
-@import url(../blocks/place/__image/_location/place__image_location_altai.css);
-@import url(../blocks/place/__image/_location/place__image_location_winter-baikal.css);
-@import url(../blocks/place/__image/_location/place__image_location_karelia.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/link-transition/link-transition.css);
 
