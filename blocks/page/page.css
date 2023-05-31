@@ -6,8 +6,3 @@
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
-
-* {
-  outline: 1px solid red;
-  box-sizing: border-box;
-}
